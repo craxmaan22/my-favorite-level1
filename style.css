@@ -1,7 +1,9 @@
 
 
 img {
-    float: left;
+    width: 200px;
+    height: 200px;
+    float: center;
     
 }
 .sidebar {
@@ -15,3 +17,27 @@ img {
     float: left;
 
 }
+p {
+    color: blue;
+    float: center;
+    text-align: center;
+}
+h2 {
+    color: blue;
+    float: middle;
+    text-align: center;
+}
+ul {
+   color: blue;
+    float: center;
+}
+ol {
+    float: center;
+    color: rgb(179, 0, 255);
+}
+h5 {
+    color: brown;
+    float: center;
+    text-align: justify;
+}
+
