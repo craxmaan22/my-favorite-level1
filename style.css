@@ -29,11 +29,16 @@ h2 {
 }
 ul {
    color: blue;
-    float: center;
+   font-size: 20px;
+   line-height: 30px;
+
+
 }
 ol {
     float: center;
-    color: rgb(179, 0, 255);
+    font-size: 20px;
+    line-height: 30px;
+    text-shadow: 0ch;
 }
 h5 {
     color: brown;
@@ -45,7 +50,7 @@ a {
     
 }
 body {
-color: blue;
+background-color: rgba(146, 110, 85, 0.329);
 }
 em {
     float: center;
