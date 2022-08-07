@@ -3,7 +3,7 @@
 img {
     width: 200px;
     height: 200px;
-    float: center;
+    float: 50;
     
 }
 .sidebar {
@@ -44,4 +44,11 @@ a {
     float: center;
     
 }
-
+body {
+color: blue;
+}
+em {
+    float: center;
+    text-align: center;
+    color: black;
+}
